@@ -45,6 +45,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>dockerized-heroku-app</finalName>
 	</build>
 
 </project>
